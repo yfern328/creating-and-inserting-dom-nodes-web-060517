@@ -1,6 +1,8 @@
 Creating and Inserting DOM Nodes
 ---
 
+## Just a README lab. Added test folder.
+
 ## Objectives
 
 By the end of this lesson, you'll be able to
